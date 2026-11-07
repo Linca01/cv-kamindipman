@@ -1,0 +1,8 @@
+{
+  "name": "CV KAMINDIPMAN - Material Bangunan Nabire",
+  "description": "Website resmi penjualan & pemesanan material pasir, batu, sirtu, dan tanah timbunan berkualitas CV KAMINDIPMAN di Nabire, Papua Tengah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
